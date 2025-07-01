@@ -1,2 +1,2 @@
-def addition(a,b):
-    return a+b
+a=12
+print(a)
